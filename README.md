@@ -18,3 +18,9 @@ streamlit run app.py
 
 XXXX for jupyter lab port
 YYYY for streamlit port
+
+Sentiment analysis demo:
+https://user-images.githubusercontent.com/87589755/187067070-053608bf-4683-4fb6-9ee9-0eaef1701aa9.mp4
+
+Translation + QnA demo:
+
