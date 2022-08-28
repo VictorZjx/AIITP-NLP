@@ -14,13 +14,13 @@ Tunnel XXXX then run the command: jupyter lab
 for streamlit:
 Tunnel YYYY then run the command: streamlit run app.py (Run the python notebooks first to generate the h5 file before running the app.py)
 
-streamlit run app.py
 
-XXXX for jupyter lab port
-YYYY for streamlit port
+# Movie sentiment analysis demo:<br>
 
-Sentiment analysis demo:
-https://user-images.githubusercontent.com/87589755/187067070-053608bf-4683-4fb6-9ee9-0eaef1701aa9.mp4
+![Movie sentiment analysis demo](https://user-images.githubusercontent.com/87589755/187067578-10b823d4-b7ed-4430-a404-66d496445acf.gif)
 
-Translation + QnA demo:
+
+# Translation + QnA demo:
+
+![Translation + QnA demo](https://user-images.githubusercontent.com/87589755/187067522-0fe8ad7c-4b5f-4fd2-8a12-a6191a145931.gif)
 
